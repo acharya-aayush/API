@@ -1,0 +1,12 @@
+{
+  "name": "express-basic",
+  "version": "1.0.0",
+  "description": "Basic Express learning examples",
+  "main": "Day 1/index.js",
+  "scripts": {
+    "start": "node Day 1/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
